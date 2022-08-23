@@ -26,10 +26,10 @@ function Amount(dob){
 function comparevalues(sum,luckynum){
     if(sum%luckynum === 0)
     {
-        resultP.innerText = "lucky"
+        resultP.innerText = "Yay! You are Lucky!!"
     }
     else{
-        resultP.innerText = "not lucky.."
+        resultP.innerText = "You are not Lucky..\n try with Another Number.."
     }
 }
 
