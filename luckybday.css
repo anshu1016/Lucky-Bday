@@ -35,6 +35,9 @@ body{
     margin-top: 0.5rem;
     margin-bottom: 1rem;
     border-radius: 10px;
+    font-family:cursive;
+    font-size: x-large;
+    font-weight:bold;
 }
 .container button{
     padding: 1rem;
@@ -43,6 +46,8 @@ body{
     font-family: cursive;
     font-weight: bolder;
     background-color: #be123c;
+    color:white;
+    
 }
 #result{
     margin: 0.5rem;
