@@ -1,5 +1,6 @@
 body{
-    background-color: #fda4af;;
+    background-color:#fda4af;
+    ;
 }
 
 .container{
@@ -7,7 +8,7 @@ body{
     display: block;
     text-align: center;
     box-sizing: border-box;
-    background-color: #fecdd3;;
+    background-color: #fecdd3;
     margin: auto;
 }
 
@@ -26,7 +27,7 @@ body{
 
 }
 .container input{
-    padding: 1.rem;
+    padding: 1.1rem;
     height: 0rem;
     width: 40%;
     margin: auto;
@@ -42,7 +43,6 @@ body{
     font-family: cursive;
     font-weight: bolder;
     background-color: #be123c;
-    cursor: pointer;
 }
 #result{
     margin: 0.5rem;
