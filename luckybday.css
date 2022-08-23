@@ -1,0 +1,90 @@
+body{
+    background-color: #fda4af;;
+}
+
+.container{
+    max-width: 500px;
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #fecdd3;;
+    margin: auto;
+}
+
+.container h1{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 2rem;
+    padding: 0px 1px 0px 1px;
+}
+
+.container label{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 1rem;
+
+}
+.container input{
+    padding: 1.1rem;
+    height: 0rem;
+    width: 40%;
+    margin: auto;
+    max-width: 400px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+.container button{
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+    background-color: #be123c;
+    cursor: pointer;
+}
+#result{
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.note{
+    margin-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 26px;
+    color:red;
+}
+.footer {
+    margin: 3rem 2rem 0rem 2rem;
+    border-top: 2px solid black;
+}
+
+.footer div {
+    color: black;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.footer a {
+    padding-inline: 1rem;
+    font-size: 29px;
+    color: black;
+    text-decoration: none;
+}
+
+.footer .with-para {
+    padding-inline: 0rem;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
