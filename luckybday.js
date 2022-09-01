@@ -40,4 +40,3 @@ function comparevalues(sum,luckynum){
     }
 }
 
-//checkBtn.addEventListener('click',validateDD);
